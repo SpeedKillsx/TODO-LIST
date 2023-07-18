@@ -1,0 +1,31 @@
+.a {color: black; font-family: 'Times New Roman', Times, serif; text-transform: uppercase; text-decoration: underline;}
+.input-todo {border-bottom-color: blue; border-top: none; border-left: none; border-right: none;background-color: rgba(15, 194, 238, 0.497); text-align: center;}
+.btn-todo {border-radius: 2cm; border-color: red;text-align: center;}
+.ul-class{
+    margin: auto;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
+    
+
+}
+.form-btn{text-align: center;position: relative;}
+.body-todo{
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(108deg, rgba(2,0,36,1) 0%, rgba(122,122,195,1) 0%, rgba(0,212,255,1) 100%);
+    background: -webkit-linear-gradient(108deg, rgba(2,0,36,1) 0%, rgba(122,122,195,1) 0%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(108deg, rgba(2,0,36,1) 0%, rgba(122,122,195,1) 0%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
+}
+.table-methods{
+    text-align: center;
+    margin-right: 2;
+}
+
+.tutorial {
+    width: 11em;
+    border: 3px solid #DE3163;
+    box-shadow: 9px 6px 4px #5B2C6F;
+    padding: 7px 11px;
+    background-image: linear-gradient(150deg, #EAFAF1 , #E8DAEF 30%,#E5E8E8 );
+}
